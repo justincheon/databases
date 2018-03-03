@@ -1,2 +1,2 @@
 # databases
-Database Assignments
+Database Assignments using PostgreSQL and Java
